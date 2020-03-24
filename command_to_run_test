@@ -1,0 +1,3 @@
+command to run test
+
+python -v -m  pytest --html=./report.html test_qa_task.py
